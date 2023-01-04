@@ -1,0 +1,22 @@
+.wte_header{
+    text-align:center; margin: 2rem @;
+}
+
+.wte_header_logo{
+    font-family: 'Lobster', cursive;
+}
+
+.wte_footer{
+    text-align:center; margin: 1rem @;
+}
+
+.wte_footer_logo {
+    font-family: 'Lobster', cursive;
+}
+
+.wte_footer_button{
+    text-align:center; margin: 2rem @;
+}
+
+
+
